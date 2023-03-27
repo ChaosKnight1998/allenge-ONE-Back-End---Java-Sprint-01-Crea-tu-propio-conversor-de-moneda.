@@ -2,15 +2,14 @@
 En esta aplicacion aplique mis conocimientos de la programacion orientada a objetos y el consumo de API en esta aplicación podemos convertir diferentes tipos de monedas y de temperatura.
 
 En este conversor puedes hacer conversiones de: 
-- Pesos Argentinos a Dolar USA
-- Pesos Argentinos a Euro
-- Pesos Argentinos a Libras
-- Pesos Argentinos a Yen
-- Pesos Argentinos a Won coreano
+- Dolar a Euro
+- Dolar a Libras
+- Dolar a Yen
+- Dolar a Won coreano
 - Dolar USA a Pesos Argentinos
-- Euro a Pesos Argentinos
-- Libras a Pesos Argentinos
-- Won coreano a Pesos Argentinos
+- Euro a Dolar
+- Libras a Dolar
+- Won coreano a Dolar
 
 Tambien podemos hacer conversiones de:
 
